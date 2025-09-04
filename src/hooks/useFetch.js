@@ -1,0 +1,1 @@
+// Jag vill lära mig att göra interaktiva hemsidor, och mitt mål är att jobba med både backend och frontend system, t.ex Netflix :D 

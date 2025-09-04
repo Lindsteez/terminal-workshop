@@ -1,0 +1,1 @@
+// Mitt namn är Axel, kommer från Halmstad. Min grundskola var Eketånga montessoriskola bäckagård
